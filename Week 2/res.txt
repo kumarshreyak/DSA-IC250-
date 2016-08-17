@@ -1,1 +1,1 @@
-The Optimum threshold is 1 as the Discriminitive index is minimum for this value.	
+The Optimum threshold is 1 as the Discriminitive index is minimum for this valueand the Ratio of number of elements above and below 1 is nearly equal(~1).	
