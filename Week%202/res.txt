@@ -1,1 +1,0 @@
-The Optimum threshold is 1 as the Discriminitive index is minimum for this value.	
